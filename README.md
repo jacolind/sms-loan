@@ -15,7 +15,7 @@ The data comes from a company with a banking license that gives out credit to in
 
 # Important files
 
-`loan1.inpynb` can be read as a standalone report.
+`loan1.inpynb` can be read as a standalone report. If you have a modern browser, open this and read it. If you have an old browser, open the latest file in the folder with html-output.
 
 `TODO` contain instructions on how to move this project forward.
 
