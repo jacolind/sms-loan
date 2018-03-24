@@ -9,7 +9,7 @@ The data comes from a company with a banking license that gives out credit to in
 # Method
 
 * Select X variables
-* create a pipeline containing with:
+* Create a pipeline containing with:
   * pre-processing (imputation, scaling, etc)
   * classificaiton (decision trees / logistic regression).
 
@@ -19,7 +19,7 @@ The data comes from a company with a banking license that gives out credit to in
 
 `TODO` contain instructions on how to move this project forward.
 
-# Folder structure 
+# Folder structure
 
 `html-output` is an export of the jupyter notebook.
 
