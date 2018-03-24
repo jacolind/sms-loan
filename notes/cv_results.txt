@@ -1,0 +1,51 @@
+# boosted treees:
+
+1
+
+nr numerical:  29
+nr categorical:  4
+0.654394288956 0.0477961578094
+
+2
+
+nr numerical:  14
+nr categorical:  19
+0.649045979207 0.0447805884542
+
+3
+
+nr numerical:  30
+nr categorical:  4
+0.647258703982 0.0495089512721
+
+4
+
+nr numerical:  15
+nr categorical:  19
+0.644419316745 0.0453933530244
+
+# logistic regression:
+
+1
+
+nr numerical:  29
+nr categorical:  4
+0.660651860366 0.0400015177807
+
+2
+
+nr numerical:  14
+nr categorical:  19
+0.65899185908 0.0401653328916
+
+3
+
+nr numerical:  30
+nr categorical:  4
+0.656558374626 0.0405972482898
+
+4
+
+nr numerical:  15
+nr categorical:  19
+0.65486821717 0.0407992748193

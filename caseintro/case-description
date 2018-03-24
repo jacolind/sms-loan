@@ -1,0 +1,3 @@
+Dear applicant,
+
+Please find the dataset attached. The objective is to use the data (Variable_1 to Variable_45) to fit the best possible model and predict the binary “Target” (for the lines 2058 to 2572). Please provide the final model and justification on the choice of the selected model as well as describe the methods used. Coding may be done in either R or Python. 

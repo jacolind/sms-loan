@@ -1,0 +1,19 @@
+Ifirst_status_time_of_day might be predictive because people at night are "worse" customers => recode 00-05 into "night_owl = True"
+
+Fast AI package that Mr 82 linked can be used to save time when coding. But can sklearn accept 1,2,3,4,5 I thought it needed one hot encoding using for example pandas get dummies?
+
+Eventuellt köra ensemble, börja med 2 st clf.
+
+CV
+
+Kör logreg med penalty l1 för att nå feature selection. Dom med coef = 0 kan du sen kasta ut och inte använda mer.
+
+Droppa in cols many na. Räcker att ha dem i en lista? Nja inte när du skapar cols cat... Hmm. Pröva att inaktivera drop many Na. Vad sker med auc?
+
+  Yes. The coefficient reflects the change in log odds for each increment of change in the ordinal predictor. This (very common) model specification assumes the the predictor has a linear impact across its increments. To test the assumption, you can compare a model in which you use the ordinal variable as a single predictor to one in which you discretize the responses and treat them as multiple predictors (as you would if the variable were nominal); if the latter model doesn't result in a significantly better fit, then treating each increment as having a linear effect is reasonable.
+
+https://stats.stackexchange.com/questions/95212/improve-classification-with-many-categorical-variables
+
+använd ID vars tex country
+
+ha variable för om de signat upp 00-05 = på natten

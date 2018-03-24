@@ -1,0 +1,3 @@
+We will provide a probability. Set the aim to find a model with high roc_auc, because then we can use that model and fine tune the threshold based on this particular business.
+
+first_status_time_of_day might be predictive because people at night are "worse" customers => recode 00-05 into "night_owl = True"
